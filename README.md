@@ -1,16 +1,18 @@
 ### Hi there 👋
+### I'm Aydin Abedinia MSc Computer engineering.
 
-<!--
-**abedinia/abedinia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aydin-abedinia-96b2276b/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/abedinia)
 
-Here are some ideas to get you started:
+- I'm a Team Leader, ML & MLOps engineer, Backend Developer, Researcher in Boosting and DeepLearning.
+- I mostly code in Python, Go and PHP and I have a passion in Rust programming language.
+- I'm currently working as an engineering manager.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fields of Interest
+
+- Privacy
+- Cryptography
+- DeepLearning
+- Decision Trees (Boosting)
+- Reinforcement Learning
+- ML and MLOps
