@@ -10,9 +10,10 @@
 
 ### Fields of Interest
 
+- ML and MLOps
+- Decision Trees
+- DeepLearning
+- Reinforcement Learning
 - Privacy
 - Cryptography
-- DeepLearning
-- Decision Trees (Boosting)
-- Reinforcement Learning
-- ML and MLOps
+
