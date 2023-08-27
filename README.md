@@ -11,9 +11,7 @@
 ### Fields of Interest
 
 - ML and MLOps
+- Software architecture
 - Decision Trees
 - DeepLearning
 - Reinforcement Learning
-- Privacy
-- Cryptography
-
