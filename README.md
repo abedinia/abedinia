@@ -25,4 +25,4 @@
 
 ### GitHub Statistics
 
-![Aydin's GitHub stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical)
+![Aydin's GitHub stats](https://github-readme-stats.vercel.app/api?username=abedinia&show_icons=true&theme=radical)
