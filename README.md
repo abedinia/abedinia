@@ -1,5 +1,5 @@
-### Hello! 👋
-### Welcome to Aydin Abedinia's GitHub Profile
+### Hello! 👋 
+#### 🦾 🦀 🐼
 
 I'm Aydin Abedinia, a Master's in Computer Engineering graduate, specializing in Machine Learning, MLOps, Software Engineering, and Research. My toolkit includes programming in Python, Go, and PHP, with a growing interest in Rust.
 
