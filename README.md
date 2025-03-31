@@ -144,26 +144,7 @@ I am committed to lifelong learning, continually exploring advanced algorithms a
 - Turkish (Native)
 </details>
 
-## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/WeightedAI/semicart">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WeightedAI&repo=semicart&theme=github_dark&hide_border=true" alt="semicart" />
-    <img src="https://img.shields.io/github/stars/WeightedAI/semicart?style=social" alt="Stars" />
-  </a>
-  <a href="https://github.com/WeightedAI/db_weights">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WeightedAI&repo=db_weights&theme=github_dark&hide_border=true" alt="db_weights" />
-    <img src="https://img.shields.io/github/stars/WeightedAI/db_weights?style=social" alt="Stars" />
-  </a>
-  <a href="https://github.com/abedinia/rust_decision_tree">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abedinia&repo=rust_decision_tree&theme=github_dark&hide_border=true" alt="rust_decision_tree" />
-    <img src="https://img.shields.io/github/stars/abedinia/rust_decision_tree?style=social" alt="Stars" />
-  </a>
-  <a href="https://github.com/abedinia/cache_service">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abedinia&repo=cache_service&theme=github_dark&hide_border=true" alt="cache_service" />
-    <img src="https://img.shields.io/github/stars/abedinia/cache_service?style=social" alt="Stars" />
-  </a>
-</div>
 
 <!-- Expanded Projects Section -->
 <details>
