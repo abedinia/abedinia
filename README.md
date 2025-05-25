@@ -30,7 +30,7 @@ I'm a passionate Machine Learning Researcher and Distributed Systems Engineer fo
 
 - **[SemiDeep](https://github.com/WeightedAI/semideep)** - SemiDeep helps your models focus on the right data, so they generalize better, especially when labels are scarce, noisy, or imbalanced.
   ![Stars](https://img.shields.io/github/stars/WeightedAI/semideep?style=social)
-  - Achieved +10 on UCI datasets
+  - Achieved +9% on UCI datasets for classifications
   - Implemented novel weighting mechanisms for unlabeled data
   - Enabling weighted training on Neural Networks
 
