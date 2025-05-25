@@ -17,12 +17,10 @@ I'm a passionate Machine Learning Researcher and Distributed Systems Engineer fo
 - **[Building Semi-Supervised Decision Trees with the Semi-CART Algorithm](https://link.springer.com/article/10.1007/s13042-024-02161-z)** (2024)  
   *International Journal of Machine Learning and Cybernetics*
 
- - **[Enhancing Classification with Semi-Supervised Deep Learning Using Distance-Based Sample Weights]([https://arxiv.org/abs/2505.14345](https://arxiv.org/abs/2505.14345))** (2025)  
-  *Oral Presentation on ICMLT and publish in IEEE Xplor, Preprint Arxiv*
-  
-- **Enhancing Classification with Semi-Supervised Deep Learning Using Distance-Based Sample Weights** (2025)  
-  *International Conference on Machine Learning Technologies*
+- **[Enhancing Classification with Semi-Supervised Deep Learning Using Distance-Based Sample Weights](https://arxiv.org/abs/2505.14345)** (2025)
+  *Oral Presentation on International Conference on Machine Learning Technologies and publish in IEEE Xplor, Preprint Arxiv*
 
+  
 ## 🚀 Featured Projects
 
 
