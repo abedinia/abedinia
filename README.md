@@ -28,7 +28,7 @@ I'm a passionate Machine Learning Researcher and Distributed Systems Engineer fo
   - Achieved 12% accuracy improvements on UCI benchmarks
   - Implemented novel weighting mechanisms for unlabeled data
 
-- **[SemiCART](https://github.com/WeightedAI/semideep)** - SemiDeep helps your models focus on the right data, so they generalize better, especially when labels are scarce, noisy, or imbalanced.
+- **[SemiDeep](https://github.com/WeightedAI/semideep)** - SemiDeep helps your models focus on the right data, so they generalize better, especially when labels are scarce, noisy, or imbalanced.
   ![Stars](https://img.shields.io/github/stars/WeightedAI/semideep?style=social)
   - Achieved +10 on UCI datasets
   - Implemented novel weighting mechanisms for unlabeled data
