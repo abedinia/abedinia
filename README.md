@@ -1,86 +1,26 @@
 # Aydin Abedinia
 
+**PhD Researcher @ JD-ICE | Former Lead ML/MLOps @ Snapp!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aydin-abedinia-96b2276b/)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@abedinia.aydin)
-[![Google Scholar](https://img.shields.io/badge/Scholar-%234285F4.svg?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=B1SRyKwAAAAJ)
-[![Website](https://img.shields.io/badge/Website-%23FF7139.svg?style=flat-square&logo=Firefox-Browser&logoColor=white)](https://abedinia.github.io)
+Bridging the gap between high-scale AI infrastructure and Human-Centered research. Currently pursuing a Joint PhD across 🇮🇹 **UniGe**, 🇪🇸 **UC3M**, and 🇬🇧 **QMUL**.
 
-## 👨‍💻 About Me
+[🌍 Website](https://abedinia.github.io) • [💼 LinkedIn](https://www.linkedin.com/in/aydin-abedinia/) • [✉️ Email](mailto:aydin.abedinia@unige.it)
 
-I'm a passionate Machine Learning Researcher and Distributed Systems Engineer focused on creating scalable, high-performance AI solutions. My work bridges the gap between cutting-edge ML algorithms and production-ready distributed architectures.
+---
 
-## 🔬 Research & Publications
+### 🎓 Research & Education
+* **Focus:** Semi-supervised Learning, Human-Centered AI, Cognitive Systems.
+* **Lab:** ELIOS Lab, Università di Genova.
+* **Publications:** ICMLT 2025 (IEEE), IJMLC 2024 (Springer).
 
-<!-- <img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=abedinia&show_icons=true&theme=radical" /> -->
+### 🚀 Engineering Experience
+* **Lead ML/MLOps @ Snapp!:** Scaled AI platforms for millions of daily users.
+* **Expertise:** Distributed Systems, Microservices, Production AI.
 
-- **[Building Semi-Supervised Decision Trees with the Semi-CART Algorithm](https://link.springer.com/article/10.1007/s13042-024-02161-z)** (2024)  
-  *International Journal of Machine Learning and Cybernetics*
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-- **[Enhancing Classification with Semi-Supervised Deep Learning Using Distance-Based Sample Weights](https://arxiv.org/abs/2505.14345)** (2025)
-  *Oral Presentation on International Conference on Machine Learning Technologies and publish in IEEE Xplor, Preprint Arxiv*
-
-  
-## 🚀 Featured Projects
-
-
-- **[SemiCART](https://github.com/WeightedAI/semicart)** - Semi-supervised CART implementation with weighted GINI-Index
-  ![Stars](https://img.shields.io/github/stars/WeightedAI/semicart?style=social)
-  - Achieved 12% accuracy improvements on UCI benchmarks
-  - Implemented novel weighting mechanisms for unlabeled data
-
-- **[SemiDeep](https://github.com/WeightedAI/semideep)** - SemiDeep helps your models focus on the right data, so they generalize better, especially when labels are scarce, noisy, or imbalanced.
-  ![Stars](https://img.shields.io/github/stars/WeightedAI/semideep?style=social)
-  - Achieved +9% on UCI datasets for classifications
-  - Implemented novel weighting mechanisms for unlabeled data
-  - Enabling weighted training on Neural Networks
-
-
-- **[Rust Decision Tree](https://github.com/abedinia/rust_decision_tree)** - High-performance decision tree implementation
-  ![Stars](https://img.shields.io/github/stars/abedinia/rust_decision_tree?style=social)
-  - Memory-efficient design for large datasets
-
-
-## 💻 Tech Stack
-
-```yaml
-Languages:
-  - Go
-  - Python
-  - Rust
-  - PHP
-  - SQL
-
-Machine Learning:
-  - Semi-supervised learning
-  - Decision trees
-  - PyTorch & TensorFlow
-  - scikit-learn & XGBoost
-
-Distributed Systems:
-  - Microservices
-  - Kubernetes
-  - Kafka & NATS
-  - Redis
-  - High-throughput systems
-
-Infrastructure:
-  - Docker
-  - K8s
-  - AWS
-  - Terraform
-  - Prometheus & Grafana
-```
-
-## 🎓 Education
-
-- **MSc in Software Engineering** | IAU, South Tehran Branch (2018)  
-  Thesis: *Optimizing the XGBoost Algorithm for Semi-Supervised Datasets*
-- **BSc in Software Engineering** | IAU, Kashan Branch (2013)
-
-## 🔍 Research Interests
-
-- **Semi-supervised learning algorithms** for data-efficient ML
-- **Distributed ML systems** with high reliability and performance
-- **Uncertainty-aware algorithms** for robust decision-making
-- **Reinforcement learning with causal inference** for real-world applications
+### 🧪 Key Projects
+* **[SemiCART](https://github.com/abedinia/SemiCART)**: Semi-supervised decision trees (+12% accuracy).
+* **[SemiDeep](https://github.com/abedinia/SemiDeep)**: Distance-based weighting for deep learning.
+* **[NetExecGo](https://github.com/abedinia/NetExecGo)**: High-performance Go-based networking CLI.
