@@ -1,6 +1,6 @@
 # Aydin Abedinia
 
-**PhD Researcher @ JD-ICE | Former Lead ML/MLOps @ Snapp!**
+**Ph.D. Student @ JD-ICE | Former Lead ML/MLOps @ Snapp!**
 
 Bridging the gap between high-scale AI infrastructure and Human-Centered research. Currently pursuing a Joint PhD across 🇮🇹 **UniGe**, 🇪🇸 **UC3M**, and 🇬🇧 **QMUL**.
 
