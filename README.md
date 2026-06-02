@@ -1,24 +1,24 @@
 # Aydin Abedinia
+**AI Platform & Backend Engineer** · ML Systems · LLM Agents
+Former Lead, ML/MLOps & AI Platform @ Snapp! (50M+ users) · Ph.D. Researcher @ JD-ICE
 
-**Ph.D. Student @ JD-ICE | Former Lead ML/MLOps @ Snapp!**
+I build AI platforms that ship — distributed systems, high-throughput microservices, and production ML in Go & Python. Currently bridging high-scale AI infrastructure and human-centered research through a Joint PhD across 🇮🇹 **UniGe**, 🇪🇸 **UC3M**, and 🇬🇧 **QMUL**.
 
-Bridging the gap between high-scale AI infrastructure and Human-Centered research. Currently pursuing a Joint PhD across 🇮🇹 **UniGe**, 🇪🇸 **UC3M**, and 🇬🇧 **QMUL**.
-
-[🌍 Website](https://abedinia.github.io) • [💼 LinkedIn](https://www.linkedin.com/in/aydin-abedinia/) • [✉️ Email](mailto:aydin.abedinia@unige.it)
+[🌍 Website](https://abedinia.github.io) • [💼 LinkedIn](https://www.linkedin.com/in/aydin-abedinia/) • [✉️ Email](mailto:abedinia@duck.com)
 
 ---
 
-### 🎓 Research & Education
-* **Focus:** Semi-supervised Learning, Human-Centered AI, Cognitive Systems.
+### 🚀 Engineering
+* **Lead, ML/MLOps & AI Platform @ Snapp!** — built and ran an 11-engineer team; AI-driven dispatch serving ~20M real-time inferences/day at sub-50ms p99.
+* **Expertise:** Distributed systems, microservices, model serving, MLOps, feature stores.
+* **Stack:** Go, Python, Docker, Kubernetes.
+
+### 🎓 Research
+* **Focus:** Human-centered AI, cognitive systems, semi-supervised learning.
 * **Lab:** ELIOS Lab, Università di Genova.
 * **Publications:** ICMLT 2025 (IEEE), IJMLC 2024 (Springer).
 
-### 🚀 Engineering Experience
-* **Lead ML/MLOps @ Snapp!:** Scaled AI platforms for millions of daily users.
-* **Expertise:** Distributed Systems, Microservices, Production AI.
-
-
 ### 🧪 Key Projects
-* **[SemiCART](https://github.com/abedinia/SemiCART)**: Semi-supervised decision trees (+12% accuracy).
-* **[SemiDeep](https://github.com/abedinia/SemiDeep)**: Distance-based weighting for deep learning.
-* **[NetExecGo](https://github.com/abedinia/NetExecGo)**: High-performance Go-based networking CLI.
+* **[SemiCART](https://github.com/abedinia/SemiCART)** — semi-supervised decision trees (+12% accuracy).
+* **[SemiDeep](https://github.com/abedinia/SemiDeep)** — distance-based weighting for deep learning.
+* **[NetExecGo](https://github.com/abedinia/NetExecGo)** — high-performance Go networking CLI.
