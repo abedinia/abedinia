@@ -2,7 +2,7 @@
 
 I'm a Software engineer/MLOps · PhD researcher in edge AI, Unige, UC3M, QMUL.
 
-🔧 Go · Python · Kubernetes · CI/CD · PyTorch · ONNX · Triton
+🔧 Go · Python · Kubernetes · CI/CD
 ⚡ Model serving, feature stores, deployment automation, quantisation
 
 ### 📄 Papers
