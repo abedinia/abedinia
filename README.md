@@ -19,10 +19,6 @@ ML platform behind a service with 50M+ users.
 PhD researcher at the **Elios Lab** (DITEN, University of Genoa), in the JD-ICE joint
 doctorate with Universidad Carlos III de Madrid and Queen Mary University of London.
 
-- Hardware-aware inference for vision–language models and vision transformers
-- Quantisation trade-offs — FP32 / FP16 / INT8 — measured on metered hardware, not estimated
-- Real-time driving-scenario video understanding, benchmarked H100 → Jetson Orin Nano
-- On-device generative pipelines on Jetson, Raspberry Pi 5 and STM32MP2
 
 ### 🏗️ Previously
 
@@ -34,16 +30,6 @@ Left as Senior Engineering Manager, Backend & AI Platform, having founded and le
 - Low-latency inference gateways as the default serving path for every new ML use case
 - MLOps CI/CD for model promotion: validation gates, staged rollout, drift and skew monitoring
 - Governed LLM access layer on LiteLLM + Langfuse — virtual keys, tracing, cost attribution
-
-### 📄 Papers
-
-| Year | Work | Venue |
-|:--|:--|:--|
-| 2026 | [Cross-platform deployment and characterization of an on-device generative conversational agent](https://www.sciencedirect.com/science/article/pii/S1383762126002997) | *Journal of Systems Architecture*, Elsevier |
-| 2026 | An open-source FPGA framework for extremely quantized edge AI | SIE 2026, Springer · accepted |
-| 2026 | When is hybrid better? Hardware-aware benchmarking of single and dual visual backbones | IEEE *JETCAS* · under review |
-| 2025 | [Enhancing classification with semi-supervised deep learning using distance-based sample weights](https://arxiv.org/abs/2505.14345) | ICMLT 2025, IEEE · oral, Helsinki |
-| 2024 | [Building semi-supervised decision trees with semi-CART algorithm](https://doi.org/10.1007/s13042-024-02161-z) | *IJMLC*, Springer · 34 citations |
 
 ### 📦 Code
 
