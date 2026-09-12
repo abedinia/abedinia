@@ -27,7 +27,7 @@ doctorate with Universidad Carlos III de Madrid and Queen Mary University of Lon
 Left as Senior Engineering Manager, Backend & AI Platform, having founded and led the
 11-engineer team that owned it.
 
-- Real-time online/offline feature store — **~20M inferences/day at sub-50 ms p99**
+- Real-time online/offline feature store — **~100M inferences/day at sub-50 ms p99**
 - Low-latency inference gateways as the default serving path for every new ML use case
 - MLOps CI/CD for model promotion: validation gates, staged rollout, drift and skew monitoring
 - Governed LLM access layer on LiteLLM + Langfuse — virtual keys, tracing, cost attribution
