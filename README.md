@@ -1,11 +1,12 @@
 # Aydin Abedinia
 
-**Software engineer / MLOps · PhD researcher in edge AI** — UniGe · UC3M · QMUL
+**Backend & MLOps engineer · PhD researcher in edge AI** — UniGe · UC3M · QMUL
 
-I work on making large vision and language models run inside the latency, memory and
-energy budgets of real hardware — vehicles, embedded devices, and production systems
-that have to answer in milliseconds. Before the PhD I spent eight years building the
-ML platform behind a service with 50M+ users.
+I build and run the systems that carry machine-learning models into production — real-time
+data and feature pipelines, low-latency inference services, and the deployment, monitoring
+and promotion machinery that keeps them reliable under load. Eight years of that behind a
+service with 50M+ users, and now a PhD on making large vision and language models fit the
+latency, memory and energy budgets of real hardware.
 
 [![Website](https://img.shields.io/badge/abedinia.github.io-1b7f43?style=flat-square&logo=githubpages&logoColor=white)](https://abedinia.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Scholar-c5102a?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=B1SRyKwAAAAJ&hl=en)
@@ -47,11 +48,10 @@ Every published method ships with an implementation you can install and run.
 
 ```
 Languages     Python · Go · Rust · SQL · Bash
-ML & serving  PyTorch · ONNX · vLLM · Triton · Hugging Face · LoRA/QLoRA · quantisation
+ML & serving  PyTorch · ONNX · vLLM · Triton · Hugging Face · LoRA/QLoRA · quantisation, Tensorflow, Pydantic-AI, LangChain, LangGraph
 Platform      Kubernetes · Docker · Helm · Terraform · Argo CD · GitLab CI · GitHub Actions
 Data          Kafka · NATS · Airflow · MLflow · Spark · ClickHouse · Redis · PostgreSQL
-Observability Prometheus · Grafana · OpenTelemetry · drift & training/serving-skew monitoring
-Hardware      NVIDIA H100 · Jetson AGX Orin / Orin Nano · Raspberry Pi 5 · STM32MP2
+Observability Prometheus · Grafana · OpenTelemetry · drift & training/serving-skew monitoring, LangFuse
 ```
 
 ### 📫 Contact
