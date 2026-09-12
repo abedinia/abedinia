@@ -17,8 +17,7 @@ ML platform behind a service with 50M+ users.
 ### 🔬 Currently
 
 PhD researcher at the **Elios Lab** (DITEN, University of Genoa), in the JD-ICE joint
-doctorate with Universidad Carlos III de Madrid and Queen Mary University of London,
-inside the EU Horizon 2020 **Hi-Drive** programme.
+doctorate with Universidad Carlos III de Madrid and Queen Mary University of London.
 
 - Hardware-aware inference for vision–language models and vision transformers
 - Quantisation trade-offs — FP32 / FP16 / INT8 — measured on metered hardware, not estimated
