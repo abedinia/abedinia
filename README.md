@@ -1,7 +1,6 @@
 # Aydin Abedinia
 
-I'm a Software engineer/MLOps
-PhD researcher in edge AI, Unige, UC3M, QMUL.
+I'm a Software engineer/MLOps · PhD researcher in edge AI, Unige, UC3M, QMUL.
 
 🔧 Go · Python · Kubernetes · CI/CD · PyTorch · ONNX · Triton
 ⚡ Model serving, feature stores, deployment automation, quantisation
