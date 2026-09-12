@@ -71,6 +71,4 @@ Hardware      NVIDIA H100 · Jetson AGX Orin / Orin Nano · Raspberry Pi 5 · ST
 ### 📫 Contact
 
 📧 **abedinia@duck.com** · 🌍 Genoa, Italy (CET/CEST)
-🎓 [Google Scholar](https://scholar.google.com/citations?user=B1SRyKwAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-9739-7021) · ✍️ [Medium](https://medium.com/@abedinia.aydin) · 🤝 [Mentoring on ADPList](https://adplist.org/mentors/aydin-abedinia-mrt06exd) (free 1:1)
-
-<sub>Write to me about edge inference, ML platforms, or research collaboration. If it's about a system, tell me the latency budget and the hardware — that's usually where the real question is.</sub>
+🎓 [Google Scholar](https://scholar.google.com/citations?user=B1SRyKwAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-9739-7021) · ✍️ [Medium](https://medium.com/@abedinia.aydin) · 🤝 [Mentoring on ADPList](https://adplist.org/mentors/aydin-abedinia-mrt06exd)
